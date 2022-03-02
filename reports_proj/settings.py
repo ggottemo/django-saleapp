@@ -39,12 +39,12 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # our apps
     'customers',
-    'producsts',
+    'products',
     'reports',
     'profiles',
     'sales',
     # third party apps
-    'cripsy_forms',
+    'crispy_forms',
 ]
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
